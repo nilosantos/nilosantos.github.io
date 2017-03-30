@@ -1,0 +1,48 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nilosantos.github.io" resolutions="1x" timestamp="1490889392320">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="527844455" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="início-favicon.ico" crc="63281458" ref="index"/>
+    <file name="n.png" crc="3893797119" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9-1_1x-crop-u572.jpg" crc="283907723" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dot_exploration_1x.jpg" crc="4189221748" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hc-drib4.jpg" crc="4246804596" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="copper-loader.gif" crc="4071486437" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="duho_1x.jpg" crc="333447290" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="usa_lovewins_1x.png" crc="3829426709" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dating_app_logo.gif" crc="3858929516" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dr_1x.jpg" crc="3866199098" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fitness_app_logo_design_ramotion_1x.jpg" crc="277138103" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="224187759" seo="true" mt="1490889363997" redirect="true"/>
+</manifest>
